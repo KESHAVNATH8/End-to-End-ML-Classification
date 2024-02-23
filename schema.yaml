@@ -1,1 +1,8 @@
-key : values
+COLUMNS:
+  Rest_id: int64
+  Cat_name: object
+  Details: object
+
+
+TARGET_COLUMN:
+  name: Cat_name
